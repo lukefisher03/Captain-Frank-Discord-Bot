@@ -17,4 +17,4 @@ Frank.on("message", (msg) => {
 muter.handleMuting(Frank)
 
 
-Frank.login('NzU5MTUyMjc1MTU4NzI4NzM2.X25Vpg.CFCk-VdWfa24PzctyEFAf44W_MQ');
+//Frank.login("token goes here");
