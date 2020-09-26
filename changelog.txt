@@ -1,0 +1,24 @@
+##############################################################################################################################
+Frank the Among Us Bot:
+
+v 1.0.0:
+    - Command based bot that server mutes caller's active voice channel.
+    - Error handling includes
+        - Checks to make sure caller's active VC is not empty
+        - Makes sure that 
+
+
+COMMANDS LIST (not case sensitive):
+    - "frank mute": Server mutes the VC of the caller.
+    - "frank unmute":Server unmutes the VC of the caller.
+    - "frank info" : Gives general instructions for the bot. 
+        RETURN VALUE:   Hey There! I'm Frank! 
+                        I was a bot created specifically for the game Among Us. On certain commands I can mute/unmute entire voice channels. That way you can restrict discussion while in game and then have voice chat while discussing suspects. Here's a little guide to get started:
+                        
+                        1. I need voice channel permissions to work!
+                        2. The text channel you run commands in MUST contain the word "frank" in it. That way I don't accidentally act when I shouldn't
+                        3. To mute/unmute a channel you say "frank mute" or "frank unmute" respectively.
+                        4. The user who calls a mute/unmute command must be in the voice channel he wishes to mute!
+                        
+                        That's all folks, \nEnjoy playing Among Us!\n -Frank`
+    
